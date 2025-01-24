@@ -13,15 +13,17 @@ if [ -z $runPackage ]; then
 fi
 
 echo "   ================================================="
-echo "               GVR PLUGIN INFORMATION"
+echo "                GVR PLUGIN INFORMATION"
 echo "   ================================================="
 if [ $runPackage = "com.rezone.gvortex" ]; then
     echo "                   [GVR Is detected]"
     echo
 fi
+
+echo "//==================================\\"
 echo "Running instalation pleas wait"
 sleep 0.5
 echo "Running succesfully"
 echo "Open to GVR"
-
+echo "//==================================\\"
 flaunch 
