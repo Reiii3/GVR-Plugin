@@ -21,10 +21,11 @@ echo "   ================================================="
 echo
 if [ $runPackage = "com.rezone.gvortex" ]; then
     echo " -[GVR Is detected]"
+    echo
 fi
 echo "Running instalation pleas wait"
 sleep 0.5
 echo "Running succesfully"
 echo "Open to GVR"
 
-flaunch $runPackage
+flaunch 
