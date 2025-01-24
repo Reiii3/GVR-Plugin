@@ -27,4 +27,4 @@ sleep 0.5
 echo "Running succesfully"
 echo "Open to GVR"
 
-xtorm $core
+flaunch $runPackage
