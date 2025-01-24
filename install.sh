@@ -15,10 +15,19 @@ fi
 echo "   ================================================="
 echo "                GVR PLUGIN INFORMATION"
 echo "   ================================================="
+sleep 0.5
 if [ $runPackage = "com.rezone.gvortex" ]; then
     echo "                   [GVR Is detected]"
     echo
+    sleep 0.5
 fi
+echo "      Developer  : @Reiieja"
+sleep 0.5
+echo "      version    : ${version} | ${versionCode}"
+sleep 0.5
+echo "      Update     : none"
+echo
+sleep 0.5
 
 echo "         //==================================//"
 echo "            Running instalation pleas wait"
