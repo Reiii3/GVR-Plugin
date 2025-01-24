@@ -20,10 +20,10 @@ if [ $runPackage = "com.rezone.gvortex" ]; then
     echo
 fi
 
-echo "//==================================\\"
-echo "   Running instalation pleas wait"
+echo "   //==================================//"
+echo "      Running instalation pleas wait"
 sleep 0.5
-echo "        Running succesfully"
-echo "            Open to GVR"
-echo "//==================================\\"
+echo "           Running succesfully"
+echo "               Open to GVR"
+echo "   //=================================//"
 flaunch 
