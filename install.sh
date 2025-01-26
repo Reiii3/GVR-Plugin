@@ -84,4 +84,5 @@ sleep 0.5
 echo "                 Running succesfully"
 echo "                     Open to GVR"
 echo "         //=================================//"
+sleep 2
 flaunch $runPackage
