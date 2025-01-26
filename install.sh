@@ -77,14 +77,6 @@ setprop debug.hwui.render_thread_count 1
 setprop debug.hwui.use_gpu_pixel_buffers false
 setprop debug.hwui.use_buffer_age false
  
- 
- #fps in
-  setprop debug.sf.high_fps_early_gl_phase_offset_ns 8900000
-  setprop debug.sf.high_fps_early_phase_offset_ns 7500000
-  setprop debug.sf.high_fps_early_phase_offset_ns 6100000
-  setprop debug.sf.high_fps_early_gl_phase_offset_ns 650000
-  setprop debug.sf.high_fps_late_app_phase_offset_ns 100000
-  setprop debug.sf.high_fps_early_gl_phase_offset_ns 9000000
 
 echo "         //==================================//"
 echo "            Running instalation pleas wait"
