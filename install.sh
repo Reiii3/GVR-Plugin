@@ -47,7 +47,7 @@ sleep 0.5
 
 
 #Kode From MCPE 
-setprop debug.egl.force_fxaa false
+   setprop debug.egl.force_fxaa false
    setprop debug.egl.force_taa false
    setprop debug.egl.force_msaa false
    setprop debug.egl.force_ssaa false
