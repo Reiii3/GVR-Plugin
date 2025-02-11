@@ -42,7 +42,6 @@ sleep 0.5
             setprop debug.performance.force true
             setprop debug.hwui.disable_vsync true
             setprop debug.power.profile high_performance
-            setprop debug.performance_schema 1
             setprop debug.multicore.processing 1
             setprop debug.systemuicompilerfilter speed
 
