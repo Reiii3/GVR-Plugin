@@ -16,7 +16,7 @@ echo "   ================================================="
 echo "                GVR PLUGIN INFORMATION"
 echo "   ================================================="
 sleep 0.5
-if [ $runPackage = "com.rezone.gvortex" ]; then
+if [ $runPackage1 = "com.rezone.gvortex" ]; then
     echo "                   [GVR Is detected]"
     echo
     sleep 0.5
